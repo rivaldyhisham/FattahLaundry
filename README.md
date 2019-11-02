@@ -1,2 +1,2 @@
 # FattahLaundry
- Tugas PBO
+ Tugas PBO, PBD, PSW
