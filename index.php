@@ -186,7 +186,7 @@ $date=date('Y-m-d');
                 </div> 
 
                 <footer class="footer text-right">
-                    copyright &copy; 2016 Ahmad Gunawan | Theme by Moltran.
+                    Fatta Laundry| Universitas internasional batam.
                 </footer>
 
             </div></div>
